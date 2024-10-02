@@ -1,0 +1,56 @@
+{
+    "terminal.integrated.mouseWheelZoom": true,
+    "editor.mouseWheelZoom": true,
+    "git.autofetch": true,
+    "workbench.tree.indent": 15,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.list.horizontalScrolling": true,
+    "workbench.settings.editor": "json",
+    "workbench.editor.limit.value": 7,
+    "workbench.editor.limit.enabled": true,
+    "editor.formatOnSave": true,
+    "editor.fontFamily": " CommitMonoV138 ", // ,Monolisa ,Dina ,Fira Code
+    "typescript.autoClosingTags": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    // Customisation de la couleur des traits de l'arborescence dans l'explorateur de fichiers
+    "workbench.colorCustomizations": {
+      "[GitHub Dark Default]": {
+        "tree.indentGuidesStroke": "#b4b4b4",
+        "tree.inactiveIndentGuidesStroke": "#303030"
+      }
+    },
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on"
+    },
+    // PLUGINS
+    // ESLINT
+    "[javascript, javascriptreact, typescript, typescriptreact,json]": {
+      "editor.formatOnSave": true,
+      "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+      },
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.fontFamily": "monospace",
+    // language tool
+    "ltex.language": "en",
+    // prettier
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "solidity.telemetry": true,
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.fontSize": 12,
+    "remote.autoForwardPortsSource": "hybrid",
+    "vsicons.dontShowNewVersionMessage": true
+  }
+  

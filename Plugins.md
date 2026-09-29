@@ -37,3 +37,19 @@ oderwat.indent-rainbow
 shd101wyy.markdown-preview-enhanced
 yzhang.markdown-all-in-one
 ```
+
+
+## on Mac
+```
+anthropic.claude-code
+bierner.markdown-mermaid
+github.copilot
+github.copilot-chat
+gitlab.gitlab-workflow
+ms-azuretools.vscode-containers
+ms-azuretools.vscode-docker
+orta.vscode-jest
+pflannery.vscode-versionlens
+yzhang.markdown-all-in-one
+```
+
